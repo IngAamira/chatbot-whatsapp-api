@@ -1,6 +1,6 @@
 # MedPet
 
-MedPet is an online pet store chatbot service that integrates with WhatsApp to provide users with assistance, appointment scheduling, and other functionalities. It also integrates with Google Sheets for storing appointment data and OpenAI for answering user queries.
+MedPet is an online pet store chatbot service that integrates with the WhatsApp API to provide users with assistance, automate customer service flows, and manage appointment scheduling and reservations for businesses. It is capable of sending messages, multimedia, contacts, and location information. Additionally, it integrates with ChatGPT for answering user queries and Google Sheets for storing appointment data.
 
 ## Table of Contents
 
